@@ -1,5 +1,5 @@
 
-class MaxSum 
+class FirstNonrep
 { 
     // Return the maximum Sum of difference 
     // between consecutive elements. 
